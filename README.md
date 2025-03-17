@@ -4,7 +4,7 @@
 <h3>Tech Stack</h3>
    <div>
   <!--프론트-->
-  <h5>- Front-end:</h5>
+  <h5>- Front-End:</h5>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -13,7 +13,7 @@
   <br/>
   
   <!--백-->
-  <h5>- Back-end:</h5>
+  <h5>- Back-End:</h5>
   <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
