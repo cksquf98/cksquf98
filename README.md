@@ -39,9 +39,7 @@
  <!--공부중 -->
   <h3>Studying</h3>
   <div>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> 
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+	  LG U+ URECA 프론트엔드 1기 수료 (2024.06 ~ 2024.12)
   </div>
  <br/>
  <br/>
